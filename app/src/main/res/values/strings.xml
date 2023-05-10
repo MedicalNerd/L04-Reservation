@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">L04-Reservation</string>
+    <string name="reset">Reset</string>
+    <string name="confirm">Confirm</string>
+    <string name="no">Non-Smoking</string>
+    <string name="yes">Smoking</string>
+</resources>
